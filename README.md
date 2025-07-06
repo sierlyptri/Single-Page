@@ -1,5 +1,4 @@
-# My Project
+# Single Page Website
 
-This is my awesome frontend project.
-
-🌐 Project Live URL: https://myproject.vercel.app/
+This is a single-page frontend website built with HTML
+🌐 Live Project URL: https://sierlyptri.github.io/Single-Page/
